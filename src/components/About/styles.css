@@ -1,0 +1,19 @@
+.aboutus {min-height: 500px; margin:100px auto;}
+.desc-aboutus strong {width: 500px; color:#fff; font-size: 50px; margin-top:70px;}
+.desc-aboutus strong b {color:#E6B141;}
+.desc-aboutus p {width: 50%; color:#fff; line-height: 25px; }
+.desc-aboutus {display: grid; grid-template-columns: 1fr; gap: 20px;}
+
+.infos-aboutus{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+  justify-content: center;
+  align-items: center;
+}
+
+.infos-desc p{width: 75%; margin-top:20px; line-height: 25px; font-size: 1.3em;}
+
+.btns-stacks {
+  display: flex;
+}

@@ -1,0 +1,6 @@
+.stacks{width:35%; margin-right: 10px;}
+.stack-developer{height: 180px; background:#1E1E20; border:2px solid #E6B141; border-radius: 10px;
+  margin-top:50px; display: flex; justify-content: space-between; align-items: center;}
+.stack-developer img{margin:0 20px;}
+.stack-developer strong {font-size:1em; font-weight: bold; color: #fff;}
+.stack-developer p {font-size: .8em; color:#fff; margin-top:10px; line-height: 20px;}
