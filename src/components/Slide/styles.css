@@ -1,0 +1,6 @@
+.slide-home {height: 500px; margin:100px auto;}
+.desc-slide-home strong {width: 500px; color:#fff; font-size: 50px; margin-top:70px;}
+.desc-slide-home strong b {color:#E6B141;}
+.desc-slide-home {display: grid; grid-template-columns: 1fr 1fr; gap: 20px;}
+.slide-home::after {content: ""; width: 35px; height: 400px; background: url('../../assets/icon-mouse-scroll.svg') no-repeat center center;
+  display: block; margin:-320px auto;}
