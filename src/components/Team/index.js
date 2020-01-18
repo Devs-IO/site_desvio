@@ -24,7 +24,7 @@ function Team(props) {
         <CardsTeam dataAos='zoom-in-up' datAaosDuration="2000" name="Wander Hungerbühler" skills="O Japa" profile={WanderHungerbuhler} />
         <CardsTeam dataAos='zoom-in-up' datAaosDuration="2000" name="Mickael Dantas" skills="O Gringo" profile={MickaelDantas} />
         <CardsTeam dataAos='zoom-in-up' datAaosDuration="2000" name="Lucas T." skills="O Teoremista" profile={LucasT} />
-        <CardsTeam dataAos='zoom-in-up' datAaosDuration="2000" name="Lucas T." skills="O Spotify" profile={AndreOliveira} />
+        <CardsTeam dataAos='zoom-in-up' datAaosDuration="2000" name="André Oliveira" skills="O Spotify" profile={AndreOliveira} />
       </div>
     </div>
   );
