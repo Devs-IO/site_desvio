@@ -13,7 +13,10 @@ function CardsTeam(props) {
         <img src={props.profile} alt={props.name} />
       </div>
       <div className="icone-github">
-        <img src={props.redeSocial} alt={props.name} />
+        <a href={props.link}><img src={props.redeSocial} alt={props.name} /></a>
+      </div>
+      <div className="icone-linkedin">
+        <a href={props.link2}><img src={props.redeSocial2} alt={props.name} /></a>
       </div>
     </div>
   );

@@ -20,6 +20,10 @@
   display: block;
 }
 
+.cards:hover .icone-linkedin {
+  display: block;
+}
+
 .info-devs {
   position: relative;
   z-index: 1;
@@ -50,8 +54,26 @@
 }
 
 .icone-github {
-  /* position: relative;
+  position: relative;
   margin-top: 130px;
-  margin-left: 70px; */
+  margin-left: 70px;
   display: none;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.icone-linkedin {
+  display: none;
+  margin-top: 130px;
+  margin-left: 5px;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.icone-linkedin:hover {
+  transform: scale(1.1);
+}
+
+.icone-github:hover {
+  transform: scale(1.1);
 }
