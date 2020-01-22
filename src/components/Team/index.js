@@ -87,7 +87,7 @@ function Team(props) {
           redeSocial={GitHub}
           link="https://www.behance.net/andreoliveira13"
           redeSocial2={Linkedin}
-          link2="https://www.linkedin.com/in/rebecanonato89/"
+          link2="https://www.linkedin.com/in/andre-oliveira-784976191"
         />
       </div>
     </div>
