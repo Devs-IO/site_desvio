@@ -1,9 +1,49 @@
-.cards {width: 33%; height: 180px; margin-top:10px; display: flex;
-  justify-content: center; align-items: center; transition: all .3s ease-in-out; cursor: pointer;}
+.cards {
+  width: 33%;
+  height: 180px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
 
-.cards:hover{background: #1E1E20; border: 2px solid #E6B141; border-radius: 10px; transform: scale(1.1);}
+.cards:hover {
+  background: #1e1e20;
+  border: 2px solid #e6b141;
+  border-radius: 10px;
+  transform: scale(1.1);
+}
 
-.info-devs{position:relative; z-index: 1;}
-.info-devs p {font-size: .8em; font-weight: bold; color:#E6B141; margin-bottom: 5px;}
-.info-devs strong {font-size: 1.2em; flex-wrap: wrap; background: #E6B141; padding:3px 7px; border-radius: 3px;}
-.profile-devs {position: relative; overflow: hidden; margin-left: -30px; width: 150px; height: 150px; border-radius: 50%;}
+.info-devs {
+  position: relative;
+  z-index: 1;
+}
+.info-devs p {
+  font-size: 0.8em;
+  font-weight: bold;
+  color: #e6b141;
+  margin-bottom: 5px;
+}
+.info-devs strong {
+  font-size: 1.2em;
+  flex-wrap: wrap;
+  background: #e6b141;
+  padding: 3px 7px;
+  border-radius: 3px;
+}
+.profile-devs {
+  position: relative;
+  overflow: hidden;
+  margin-left: -30px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.icone-github {
+  position: relative;
+  margin-top: 130px;
+  margin-left: 70px;
+}
