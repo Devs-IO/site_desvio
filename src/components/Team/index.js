@@ -41,9 +41,9 @@ function Team(props) {
           skills="O Empresário"
           profile={DericksonLoss}
           redeSocial={GitHub}
-          link="https://github.com/REBECANONATO"
+          link="https://github.com/DericksonLossIT"
           redeSocial2={Linkedin}
-          link2="https://www.linkedin.com/in/rebecanonato89/"
+          link2="https://www.linkedin.com/in/derickson-loss-380429151/"
         />
         <CardsTeam
           dataAos="zoom-in-up"
@@ -59,13 +59,13 @@ function Team(props) {
         <CardsTeam
           dataAos="zoom-in-up"
           datAaosDuration="2000"
-          name="Mickael Dantas"
+          name="Mikhael Dantas"
           skills="O Gringo"
           profile={MickaelDantas}
           redeSocial={GitHub}
-          link="https://github.com/REBECANONATO"
+          link="https://github.com/mikhael-dantas"
           redeSocial2={Linkedin}
-          link2="https://www.linkedin.com/in/rebecanonato89/"
+          link2="https://www.linkedin.com/in/mikhael-dantas/"
         />
         <CardsTeam
           dataAos="zoom-in-up"
@@ -74,9 +74,9 @@ function Team(props) {
           skills="O Teoremista"
           profile={LucasT}
           redeSocial={GitHub}
-          link="https://github.com/REBECANONATO"
+          link="https://github.com/lucaspontoexe"
           redeSocial2={Linkedin}
-          link2="https://www.linkedin.com/in/rebecanonato89/"
+          link2="https://www.linkedin.com/in/lucas-teixeira-de-souza-b04878140/"
         />
         <CardsTeam
           dataAos="zoom-in-up"
