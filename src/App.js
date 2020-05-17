@@ -17,7 +17,7 @@ function App() {
         titleDes="O QUE FAZEMOS?"
         description="Concepção, Desenvolvimento de Softwares, Sites e Apps,
           Consultoria, Outsourcing, Soluções de Produtos, Suportes Técnicos, Manutenção, Hospedagem e Domínio."
-        infosOne="Nós temos a solução que sua você precisa para colocar aquela ideia, projeto, soluções para seu negócio no mercado o quanto antes!"
+        infosOne="Nós temos a solução que você precisa para colocar aquela ideia, projeto, soluções para seu negócio no mercado o quanto antes!"
         infosTwo="Se estava procurando por uma empresa que pudesse desenvolver seu site, aplicativo. Você realmente, não chegou aqui por acaso."
         infosThree="A metodologia que utilizamos para você chegar até aqui, será a mesma para ajudar você, a conseguir converter com seus clientes."
       />

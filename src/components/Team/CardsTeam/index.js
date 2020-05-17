@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 
-import './styles.css';
+import "./styles.css";
 
 function CardsTeam(props) {
   return (
@@ -11,6 +11,12 @@ function CardsTeam(props) {
       </div>
       <div className="profile-devs">
         <img src={props.profile} alt={props.name} />
+      </div>
+      <div className="icone-linkedin">
+        <a href={props.link2}><img src={props.redeSocial2} alt={props.name} /></a>
+      </div>
+      <div className="icone-github">
+        <a href={props.link}><img src={props.redeSocial} alt={props.name} /></a>
       </div>
     </div>
   );

@@ -29,6 +29,7 @@ function About(props) {
       </div>
 
       <div className="btns-stacks">
+
         <ButtonStacks
           dataAos="zoom-in-up"
           datAaosDuration="2000"
@@ -58,6 +59,41 @@ function About(props) {
           description="Desenvolvemos seu aplicativo com as melhores
           tecnologias do mercado."
         />
+
+       </div>
+
+       <div className="btns-stacks"> 
+
+        <ButtonStacks
+          dataAos="zoom-in-up"
+          datAaosDuration="2000"
+          icon={IconMobile}
+          title="Consultoria"
+          description="Substitua os seus problemas de TI ou do seu negócio por 
+          soluções Devs.io e maximize a sua produtividade. Somos 
+          especializados em inovar, prover soluções criativas 
+          e resolver problemas de maior complexidade."
+        />
+
+        <ButtonStacks
+          dataAos="zoom-in-up"
+          datAaosDuration="2000"
+          icon={IconMobile}
+          title="Outsourcing"
+          description="Temos as melhores soluções tecnológicas, capazes de otimizar 
+          a gestão dos negócios. E oferecemos maior monitoramento e prevenção 
+          contra falhas no sistema, além de permitir a flexibilidade de processos."
+        />
+
+        <ButtonStacks
+          dataAos="zoom-in-up"
+          datAaosDuration="2000"
+          icon={IconMobile}
+          title="Suportes Técnicos"
+          description="Temos as melhores soluções tecnológicas, os melhores equipamentos em custo x benefício.
+          Oferecemos todo o suporte e manutenção que você e sua empresa necessita."
+        />
+
       </div>
     </div>
   );
